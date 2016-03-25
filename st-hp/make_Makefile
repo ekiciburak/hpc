@@ -1,0 +1,1 @@
+coq_makefile Memory.v Terms.v Decorations.v Axioms.v Proofs.v HPCompleteCoq.v -o Makefile 

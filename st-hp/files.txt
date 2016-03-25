@@ -1,0 +1,9 @@
+Memory.v
+Terms.v
+Decorations.v
+Axioms.v
+Derived_Terms.v
+Decorated_Pairs.v
+Decorated_Products.v
+Derived_Rules.v
+Proofs.v
