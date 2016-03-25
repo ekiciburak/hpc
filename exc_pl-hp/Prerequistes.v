@@ -13,7 +13,7 @@ Require Import Program.
 Require Import Le Gt Minus Bool Setoid.
 Set Implicit Arguments.
 
-Module Type T.	
+Module Type T.
 
  Parameter EName: Type.
  Parameter Val: EName -> Type.
